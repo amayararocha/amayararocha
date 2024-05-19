@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, mundo!</h1>
+<h1>Olá, mundo! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <img width="1000" alt="header_1" src="https://github.com/amayararocha/amayararocha/assets/163466714/032c2918-4b22-49f7-b9c9-1b41a815c525">
 
 Atualmente, estou em transição da área de nutrição para o mundo da tecnologia. Minhas habilidades de liderança, trabalho em equipe e resolução de problemas me permitem enfrentar desafios de forma eficaz.
