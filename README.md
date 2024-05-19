@@ -1,9 +1,9 @@
 <h1>Olá, mundo! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<img width="1000" alt="header_1" src="https://github.com/amayararocha/amayararocha/assets/163466714/032c2918-4b22-49f7-b9c9-1b41a815c525">
+</h2><img width="1000" alt="header_1" src="https://github.com/amayararocha/amayararocha/assets/163466714/032c2918-4b22-49f7-b9c9-1b41a815c525">
 
-Atualmente, estou em transição da área de nutrição para o mundo da tecnologia. Minhas habilidades de liderança, trabalho em equipe e resolução de problemas me permitem enfrentar desafios de forma eficaz.
+#### Atualmente, estou em transição da área de nutrição para o mundo da tecnologia. Minhas habilidades de liderança, trabalho em equipe e resolução de problemas me permitem enfrentar desafios de forma eficaz.
 
-No mundo da programação, sou apaixonada por:
+#### No mundo da programação, sou apaixonada por:
 
 - **Java** ☕
 - **Spring Boot** 🌱
@@ -12,11 +12,11 @@ No mundo da programação, sou apaixonada por:
 - **Tailwind** 🎨
 - **MySQL** 🗄️
 
-O que estou fazendo? 🔍 
+#### O que estou fazendo? 🔍 
 
 Atualmente, estou explorando novas tecnologias, contribuindo para projetos open source e aprendendo algo novo todos os dias. Minha missão é aplicar essas habilidades transferíveis para criar soluções inovadoras e impactantes no campo tecnológico.
 
-Vamos conectar! 📫 
+#### Vamos conectar! 📫 
 
 Se você também é apaixonado(a) por tecnologia, vamos trocar ideias! Me encontre no LinkedIn e vamos construir algo incrível juntos! 🚀
 
