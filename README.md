@@ -9,7 +9,6 @@
 - **Spring Boot** 🌱
 - **React** ⚛️
 - **TypeScript** 📜
-- **Tailwind** 🎨
 - **MySQL** 🗄️
 
 #### O que estou fazendo? 🔍 
